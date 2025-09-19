@@ -38,7 +38,11 @@ div {
   font-size: 1.2em; 
 }
 
-.description {
+.description{
+  font-style: italic;
+  font-size: 1.2em; 
+}
+.priority{
   font-weight: bold;
   font-size: 1.2em; 
 }
